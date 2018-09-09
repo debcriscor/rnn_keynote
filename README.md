@@ -41,7 +41,10 @@ source deactivate rnn_keynote
 We need to install numpy, scikit-learn, matplotlib, jupyter, notebook, scipy and pandas
 
 ```
-conda install numpy scikit-learn matplotlib jupyter notebook scipy pandas
+conda install numpy scikit-learn 
+conda install matplotlib 
+conda install jupyter notebook 
+conda install scipy pandas
 ```
 ### Install the Tensorflow
 
